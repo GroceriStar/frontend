@@ -9,6 +9,9 @@
 * https://github.com/GroceriStar/gs-gatsby-react-blog
 * https://github.com/GroceriStar/groceris-static
 
+* https://github.com/GroceriStar/react-intern-12/
+* https://github.com/GroceriStar/react-print-pdf
+
 * https://github.com/atherdon/fullcalendar-node2
 * https://github.com/ChickenKyiv/recipe-search-react
 
