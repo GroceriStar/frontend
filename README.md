@@ -16,3 +16,5 @@
 * https://github.com/ChickenKyiv/recipe-search-react
 
 * https://github.com/ChickenKyiv/react-menu-monkey-client
+
+* https://github.com/atherdon/gatsby-first-time-homepage2/issues/19
