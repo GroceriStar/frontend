@@ -22,8 +22,8 @@
 
 * https://github.com/GroceriStar/react-native-shoppin-list
 
-* https://github.com/GroceriStar/react-only-intern-15
+* Oluwajoba https://github.com/GroceriStar/react-only-intern-15
 
-* https://github.com/GroceriStar/react-only-intern-16
+* Louise https://github.com/GroceriStar/react-only-intern-16
 
 * Che https://github.com/GroceriStar/react-only-intern-17/
