@@ -67,3 +67,29 @@ https://codepen.io/Braunson/pen/tilaw
 junk
 https://codepen.io/AxeOfMen/pen/mEVjPY
 
+
+https://codepen.io/jar36/pen/XEoMBm
+
+https://codepen.io/arnellebalane/pen/BRxgBj food widget
+
+https://codepen.io/vanwars/pen/zKzgBN - shoplist simple
+
+
+diets plan - plain html
+https://codepen.io/Dgeezy/pen/OWVrXw
+
+read - https://codepen.io/jingman/pen/rDvyJ
+
+https://codepen.io/travis-g/pen/zqgNjZ
+
+recipe and shoplist
+https://codepen.io/ParentJA/pen/gMgxMZ
+
+
+https://github.com/NativeScript/sample-Groceries
+
+search with results
+https://codepen.io/lottieholland/pen/EZQNEa
+
+cool` https://codepen.io/annuhdo/pen/rmLEJx`
+
