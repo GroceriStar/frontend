@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "DosisBold";
+	src: url("../fonts/DosisBold/DosisBold.eot");
+	src: url("../fonts/DosisBold/DosisBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/DosisBold/DosisBold.woff") format("woff"),
+	url("../fonts/DosisBold/DosisBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "GeorgiaItalic";
+	src: url("../fonts/GeorgiaItalic/GeorgiaItalic.eot");
+	src: url("../fonts/GeorgiaItalic/GeorgiaItalic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/GeorgiaItalic/GeorgiaItalic.woff") format("woff"),
+	url("../fonts/GeorgiaItalic/GeorgiaItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
