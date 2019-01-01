@@ -27,3 +27,5 @@ can it be like frala design blocks? or replaced with their blocks completely?
 also we need to make it less blackish...
 
 replace fonts with google fonts stuff
+
+and for sure not to use jade/pug stuff
