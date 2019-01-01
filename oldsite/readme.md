@@ -3,7 +3,7 @@ old project that i was taking a part.
 basic tasks:
 
 
-i'm not sure if approach that we have at ph-st project is still on the edge of frontend development, but at least it working as we suppose, so
+i'm not sure if approach that we have at [ph-st project](https://github.com/ChickenKyiv/ph-st-template) is still on the edge of frontend development, but at least it working as we suppose, so
 we can grab that logic. or i'll ask eugene to guide us with it.
 
 can this shit be compilable?
